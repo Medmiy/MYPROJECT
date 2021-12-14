@@ -36,7 +36,7 @@ All my projects are stored in the folder named `Project` .
 
 ## Setup
 
-To run this project, install it as shown here :
+To run this projects, install it as shown here :
 ```shell
 $ git clone https://github.com/Medmiy/MYPROJECT.git 
 ```

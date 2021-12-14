@@ -31,7 +31,7 @@ The goal of this project is to study a Gaussian process regression approach that
 
 ## Usage
 
-All my projects are stored in the folder named Project .
+All my projects are stored in the folder named `Project` .
 
 
 ## Setup

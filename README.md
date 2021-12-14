@@ -11,6 +11,7 @@
 you can find in my git the most important machine learning projects I worked on in my academic environment at the University of Paris Saclay.
 
 ## About projects
+
 you can find here a small summary of the projects without going into too much detail :
 
 ### - Naïve Bayes classifier Vs TreeAugmented Bayes classifier : 
@@ -34,10 +35,12 @@ All my projects are stored in the folder named Project .
 ## Technologies
 
 ## Setup
+
 To run this project, install it as shown here :
 $ git clone https://github.com/Medmiy/MYPROJECT.git 
 
 ## Articles
+
 - ["Improved Techniques for Training GANs"](http://arxiv.org/abs/1606.03498)
 - ["Comparative Analysis of Naive Bayes and Tree Augmented Naive Bayes Models"](https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1350&context=etd_projects)
 - ["Boosting the Tree Augmented Naïve Bayes Classifier"](https://www.researchgate.net/publication/221252606_Boosting_the_Tree_Augmented_Naive_Bayes_Classifier)

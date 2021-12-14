@@ -2,7 +2,6 @@
 * [Description](#Description)
 * [About-Projects](#About-Description)
 * [Usage](#Usage)
-* [Technologies](#Technologies)
 * [Setup](#Setup)
 * [Articles](#Articles)
 
@@ -34,7 +33,6 @@ The goal of this project is to study a Gaussian process regression approach that
 
 All my projects are stored in the folder named Project .
 
-## Technologies
 
 ## Setup
 

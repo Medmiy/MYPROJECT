@@ -26,6 +26,7 @@ It is a supervised learning problem which consists in predicting the probability
 ### - Gaussian Process Regression for Derivative Portfolio Modeling and Application to CVA Computations
 The goal of this project is to study a Gaussian process regression approach that is well suited to the valuation of OTC derivative portfolios involved in CVA (Credit Value Adjustment) calculations based on Stéphane Crépey and Matthew F. Dixon's paper entitled "Gaussian Process Regression for Derivative Portfolio Modeling and Applications to CVA Calculations".
 
+you can find in detail the reports of these projects as well as the report of my internship (PFE) in the folder named `Project_Report`.
 
 
 
